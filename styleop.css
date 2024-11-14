@@ -6,7 +6,7 @@
 }
 
 html {
-  background-image: url(/img/days-one-piece.jpg);
+  background-image: url(/calculadoraOP/img/days-one-piece.jpg);
   background-size: cover;
   background-repeat: repeat;
   --bg: #f5f6f7;
@@ -23,7 +23,7 @@ html {
 }
 
 html[data-theme=dark] {
-  background-image: url(/img/nights-onepiec.jpg);
+  background-image: url(/calculadoraOP/img/nights-onepiec.jpg);
   background-size: cover;
   background-repeat: repeat;
   --bg: #131419;
